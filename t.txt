@@ -1,0 +1,5 @@
+
+for run
+python3 src/run_detector.py --images_source webcam
+
+https://github.com/ChengeYang/Human-Pose-Estimation-Benchmarking-and-Action-Recognition
